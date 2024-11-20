@@ -15,8 +15,9 @@ Po kliknięciu na przycisk Wyślij, generuje się sformatowany tekst który jest
 ![Zrzut ekranu 2024-11-20 152109(6)](https://github.com/user-attachments/assets/8d5f9ee2-acc2-4cd1-8eaa-b7e658948a3e)
 ![Zrzut ekranu 2024-11-20 152144(7)](https://github.com/user-attachments/assets/413a18be-9d5f-44bb-8831-3eb559751ee8)
 ![Zrzut ekranu 2024-11-20 152210(8)](https://github.com/user-attachments/assets/5099d3d5-c20b-4727-a61c-08bc20de61be)
-![Zrzut ekranu 2024-11-20 153723(9)](https://github.com/user-attachments/assets/cc5518c8-6796-43ac-b09b-2e1b6bd00c7e)
-![Zrzut ekranu 2024-11-20 153839(10)](https://github.com/user-attachments/assets/527bedbb-cee7-48ea-84a3-ba2df218fda1)
+![Zrzut ekranu 2024-11-20 154748(11)](https://github.com/user-attachments/assets/09e6f64a-cca1-4f39-870c-1cc9e0c9af60)
+![Zrzut ekranu 2024-11-20 154817(12)](https://github.com/user-attachments/assets/50097941-0514-45a0-bad4-9e6790a5561c)
+
 
 
 
