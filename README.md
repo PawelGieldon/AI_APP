@@ -1,6 +1,6 @@
 # AI_App
 
-## About project
+## Screenshots
 ![Zrzut ekranu 2024-11-20 150918](https://github.com/user-attachments/assets/3efe220a-c3d9-46ab-bfe0-c2493da87c5f)
 ![Zrzut ekranu 2024-11-20 151031(2)](https://github.com/user-attachments/assets/87a19b83-271d-4ecc-88b4-f644cc188cb8)
 ![Zrzut ekranu 2024-11-20 151900(3)](https://github.com/user-attachments/assets/54c9a5ec-b56d-4276-9208-82a752408eae)
@@ -11,7 +11,10 @@
 ![Zrzut ekranu 2024-11-20 152210(8)](https://github.com/user-attachments/assets/5099d3d5-c20b-4727-a61c-08bc20de61be)
 
 
-
+##About project
+Apka odczytuje plik tekstowy który wyświetla się po kliknięciu w przycisk Pobierz plik.
+Na górze jest zaimplementowany Inteligentny chat do którego można wysłać zapytanie w jaki sposób chcemy przerobić tekst.
+Po kliknięciu na przycisk Wyślij, generuje się sformatowany tekst który jest wyświetlony na stronie oraz pobiera się nowy plik html z gotową stroną html.
 
 
 
