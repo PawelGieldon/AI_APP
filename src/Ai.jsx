@@ -23,7 +23,7 @@ function Ai({ setFileContent }) {
       <button onClick={fetchFile} style={{ marginBottom: "20px", padding: "10px 20px" }}>
         Pobierz plik
       </button>
-      <pre>{fileContent || "Kliknij przycisk, aby odczytać plik."}</pre>
+      <pre style={{ overflow: "hidden", whiteSpace: "pre-wrap",}}>{fileContent || "Kliknij przycisk, aby odczytać plik."}</pre>
     </div>
   );
 }

@@ -82,7 +82,7 @@ function App() {
         placeholder="Wpisz swoje zapytanie..."
         value={input}
         onChange={(e) => setInput(e.target.value)}
-        style={{ width: '100%', marginBottom: '10px' }}
+        style={{ width: '100%', marginBottom: '10px', height:'400px'}}
       />
       <button onClick={handleFetch} style={{ padding: '10px 20px' }}>
         Wyślij
